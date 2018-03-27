@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 print("Shraddha188888")
 while True:
 print("wish")
@@ -14,8 +14,7 @@ c = aa + str(b)
 print c
 d = str(int(aa + str(b)) + int(aa)) + str(b)
 print int(d)+int(d)*int(d)^2*3/4
-=======
+
 print("Shraddha12")
 while True:
 print("wish1")
->>>>>>> test
