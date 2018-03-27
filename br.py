@@ -1,3 +1,3 @@
-print("Shraddha1")
+print("Shraddha12")
 while True:
-print("wish")
+print("wish1")
