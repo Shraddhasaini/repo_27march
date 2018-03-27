@@ -3,7 +3,7 @@ print("Shraddha188888")
 while True:
 print("wish")
 print "shraddha188"
-a= 12
+a= 16
 b = 18
 aa = "19"
 print a, b, aa
